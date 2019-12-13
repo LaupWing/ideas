@@ -5,3 +5,6 @@ A lot of custom mechanical keyboard websites are really bad designed and not cle
 ## Recreate Productivty websites
 Just copying productivyt websites, because i love productivity
 Watch this video for inspiration: [youtube](https://www.youtube.com/watch?v=h3xLFA0xKoM)
+
+## Platform for improving your day
+A platform to improve your every day but the use of widges related to self improvement every day.
